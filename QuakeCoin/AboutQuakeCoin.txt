@@ -1,0 +1,7 @@
+Name: QuakeCoin/QuakeNetwork
+Symbol: QKC
+PeerPort: 8312
+TestnetPeerPort: 7312
+APIPort: 6143
+Logo: ?
+Github: https://github.com/MammiaMia/QuakeCoin
